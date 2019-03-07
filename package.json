@@ -1,7 +1,7 @@
 {
   "name": "sequelize-express-api",
   "version": "0.0.1",
-  "description": "api",
+  "description": "experiment express api using sequelize",
   "main": "index.js",
   "repository": {"url": "https://github.com/RomaDemiurg/sequelize-express-api.git"},
   "scripts": {
