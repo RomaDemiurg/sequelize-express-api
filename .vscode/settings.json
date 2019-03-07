@@ -1,0 +1,12 @@
+{
+    "window.zoomLevel": -1,
+    "editor.fontSize": 14,
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.shell.windows": "C:/Windows/System32/WindowsPowerShell/v1.0/powershell.exe",
+    "files.exclude": {
+        // "**/.git": true,
+        ".vscode": true,
+        // "node_modules": true,
+        "package-lock.json": true
+    }
+}
